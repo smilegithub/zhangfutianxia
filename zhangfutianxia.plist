@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<string>YES</string>
 					<key>url</key>
-					<string>http://www.baihuitongpay.com/icon.png</string>
+					<string>http://www.midaipay.com/image/zhangfu/icon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<string>YES</string>
 					<key>url</key>
-					<string>http://www.baihuitongpay.com/icon@2x.png</string>
+					<string>http://www.midaipay.com/image/zhangfu/icon@2x.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
